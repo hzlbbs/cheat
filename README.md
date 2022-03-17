@@ -18,3 +18,5 @@ step 2:run yy.exe in match of game(do not run yy.exe in lobby)
 step 3: wait for 5s in game
 
 step 4: enjoy game
+
+https://discord.gg/VTyhMrb3Xk
