@@ -3,20 +3,34 @@
 PlayerUnknows's Battlegrounds
 
 Supported OS :: Windows 10 full
+
 require:Game Mode :: Bordless
+
 Functional:
+
 AIMBOT
+
 Prediction
+
 No Sway
+
 No Recoil
+
 ESP Player
+
 Invisible Color
+
 Show spectators
 
+
 F1:show/off player name
+
 F5:choose aim type head/chest
+
 F4:aim key/ cap/mouse right
+
 esp aimbot
+
 
 instructions video
 
