@@ -195,8 +195,6 @@ void ShowEsp()
 		render.RenderText("s.h.o.t.2", 0, 0, -1, 0, 0);
 		return;
 	}*/
-	float DonguId = -1;
-	float DonguDist = -1;
 	if (game_ptr==0)
 	{
 		return;
