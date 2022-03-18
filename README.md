@@ -1,4 +1,5 @@
-# pubg free hack
+# pubg free hack stem version
+game version:16.2.6.3
 
 PlayerUnknows's Battlegrounds
 
