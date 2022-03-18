@@ -1,5 +1,10 @@
 # pubg free hack stem version
+
 game version:16.2.6.3
+
+key:ycKgqQQ3vF7RtSShTvPpLkyDh7EIG
+
+
 
 PlayerUnknows's Battlegrounds
 
@@ -31,8 +36,6 @@ F5:choose aim type head/chest
 F4:aim key/ cap/mouse right
 
 esp aimbot
-
-key:ycKgqQQ3vF7RtSShTvPpLkyDh7EIG
 
 instructions video
 
