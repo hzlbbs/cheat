@@ -1,6 +1,6 @@
 # pubg free hack stem version
 
-game version:16.2.6.3
+wait for update
 
 key:ycKgqQQ3vF7RtSShTvPpLkyDh7EIG
 
