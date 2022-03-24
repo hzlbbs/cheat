@@ -4,6 +4,8 @@ wait for update
 
 key:ycKgqQQ3vF7RtSShTvPpLkyDh7EIG
 
+author discord:kali#6387
+
 
 
 PlayerUnknows's Battlegrounds
