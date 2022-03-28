@@ -12,6 +12,8 @@ key:ycKgqQQ3vF7RtSShTvPpLkyDh7EIG
 author discord:kali#6387
 
 
+discord group:https://discord.gg/VTyhMrb3Xk
+
 
 PlayerUnknows's Battlegrounds
 
@@ -61,5 +63,3 @@ step 2:run yy.exe in match of game(do not run yy.exe in lobby)
 step 3: wait for 5s in game
 
 step 4: enjoy game
-
-discord group:https://discord.gg/VTyhMrb3Xk
