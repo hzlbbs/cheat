@@ -1,11 +1,6 @@
 # pubg free hack stem version
-updated：game version 16.2.6.9
-
-new feature:
-
-cancel aimbot
-
-susport win11
+updated：game version 16.2.7.9
+last updated:3.30
 
 key:ycKgqQQ3vF7RtSShTvPpLkyDh7EIG
 
