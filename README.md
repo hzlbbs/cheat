@@ -1,3 +1,5 @@
+donate:0x167e7B50b0C1b00B27fb3f00ac7c7D3001D5b2C6(usdt erc20)
+
 # pubg free hack stem version
 updated：game version 16.2.7.9
 last updated:3.30
