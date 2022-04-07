@@ -1,5 +1,5 @@
 
-stop updated, not release for free,if you want use private version,contact me discord
+stop updated, not release for free,if you want use private version,contact me discord(only accept usdt or other cryptocoin)
 
 author discord:kali#6387
 
