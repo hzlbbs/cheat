@@ -5,12 +5,6 @@ last updated:3.30
 
 key:ycKgqQQ3vF7RtSShTvPpLkyDh7EIG
 
-author discord:kali#6387
-
-
-discord group:https://discord.gg/VTyhMrb3Xk
-
-
 PlayerUnknows's Battlegrounds
 
 Supported OS :: Windows 10 full
