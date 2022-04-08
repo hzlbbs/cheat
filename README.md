@@ -1,8 +1,4 @@
 
-stop updated, not release for free,if you want use private version,contact me discord(only accept usdt or other cryptocoin)
-
-author discord:kali#6387
-
 # pubg free hack stem version
 updated：game version 16.2.7.9
 last updated:3.30
