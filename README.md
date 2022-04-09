@@ -1,3 +1,4 @@
+Updates will stop after the 13th
 
 # pubg free hack stem version
 updated：game version 16.2.7.9
