@@ -1,4 +1,5 @@
 Updates will stop after the 13th
+author kali#6387
 
 # pubg free hack stem version
 updated：game version 16.2.7.9
