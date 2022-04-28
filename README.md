@@ -1,4 +1,4 @@
-Updates will stop after the 13th author discord:kali#6387
+ready to release
 
 # pubg free hack stem version
 updated：game version 16.2.7.9
