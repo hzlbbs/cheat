@@ -9,6 +9,8 @@ APEX:COMING SOON
 
 PlayerUnknows's Battlegrounds
 
+<a href="https://ibb.co/W245QK6"><img src="https://i.ibb.co/XCrL9Jb/123.png" alt="123" border="0"></a>
+
 Supported OS :: Windows 10 full
 
 require:Game Mode :: Bordless
