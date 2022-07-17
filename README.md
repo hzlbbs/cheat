@@ -1,10 +1,10 @@
 ready to release
 
-# pubg free hack stem version
-updated：game version 16.2.7.9
-last updated:3.30
-
-key:ycKgqQQ3vF7RtSShTvPpLkyDh7EIG
+# pubg free hack
+updated status:
+PUBG : 18.2.8.1 version 
+VALORANT:COMING SOON
+APEX:COMING SOON
 
 PlayerUnknows's Battlegrounds
 
@@ -47,10 +47,8 @@ step 2
 
 https://sakura-cheat.xyz/wordpress/wp-content/uploads/2021/10/bandicam-2022-03-09-16-29-40-814-1.mp4
 
-step 1:run login.exe and login before game running
+step 1:run start.exe and click start botton before game running
 
 step 2:run yy.exe in match of game(do not run yy.exe in lobby)
 
-step 3: wait for 5s in game
-
-step 4: enjoy game
+step 3: enjoy game
