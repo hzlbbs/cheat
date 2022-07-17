@@ -46,7 +46,7 @@ https://sakura-cheat.xyz/wordpress/wp-content/uploads/2021/10/bandicam-2022-03-0
 
 step 2
 
-https://sakura-cheat.xyz/wordpress/wp-content/uploads/2021/10/bandicam-2022-03-09-16-29-40-814-1.mp4
+https://oldguabi.com/wordpress/wp-content/uploads/2021/10/bandicam-2022-03-09-16-29-40-814-1.mp4
 
 step 1:run start.exe and click start botton before game running
 
