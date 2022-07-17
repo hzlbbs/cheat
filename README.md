@@ -1,4 +1,3 @@
-ready to release
 
 # pubg free hack
 updated status:
