@@ -1,7 +1,7 @@
 
 # pubg free hack
 updated status:
-PUBG : 18.2.8.1 version  unzip pwd:123
+PUBG : 18.2.8.11 version  unzip pwd:123
 
 VALORANT:COMING SOON
 
