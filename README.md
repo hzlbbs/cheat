@@ -1,7 +1,8 @@
 
 # pubg free hack
 updated status:
-PUBG : 18.2.8.11 version 
+
+PUBG : 18.2.8.11
 
 VALORANT:5.01.00.731104
 
