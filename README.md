@@ -3,7 +3,7 @@
 updated status:
 PUBG : 18.2.8.11 version 
 
-VALORANT:COMING SOON
+VALORANT:5.01.00.731104
 
 APEX:COMING SOON
 
