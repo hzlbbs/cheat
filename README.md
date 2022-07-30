@@ -8,12 +8,13 @@ VALORANT:5.01.00.731104
 
 APEX:COMING SOON
 
+discord:guabi00#1318
+
 PlayerUnknows's Battlegrounds
 
 <a href="https://ibb.co/W245QK6"><img src="https://i.ibb.co/XCrL9Jb/123.png" alt="123" border="0"></a>
 <a href="https://i.imgur.com/PwWuQ1d.png"><img src="https://i.imgur.com/PwWuQ1d.png" alt="123" border="0"></a>
 
-discord:guabi00#1318
 
 Supported OS :: Windows 10 full
 
