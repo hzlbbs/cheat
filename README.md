@@ -2,7 +2,7 @@ PUBG CHEAT VALORANT CHEAT APEX CHEAT チート 플러그인
 # free cheat
 updated status:
 
-PUBG : 18.2.8.11-->update delay
+PUBG : 18.2.9.1
 
 VALORANT:5.01.00.731104
 
