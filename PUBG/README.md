@@ -1,12 +1,4 @@
-PUBG : 18.2.9.3
+PUBG : 19.1.5.1
+download from discord group
 
-aimbot suspended (cause:ban risk)
-
-update 19.1
-
-add item esp
-
-add airdrop esp
-
-add through the wall
 
