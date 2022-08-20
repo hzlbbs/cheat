@@ -8,8 +8,7 @@ VALORANT:5.01.00.731104
 
 APEX:COMING SOON
 
-discord:guabi00#1318
-
+discord group:https://discord.gg/j77QKUxmFv
 PlayerUnknows's Battlegrounds
 
 <a href="https://ibb.co/W245QK6"><img src="https://i.ibb.co/XCrL9Jb/123.png" alt="123" border="0"></a>
