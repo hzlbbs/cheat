@@ -8,7 +8,6 @@ VALORANT:5.01.00.731104
 
 APEX:COMING SOON
 
-discord group:https://discord.gg/j77QKUxmFv
 
 PlayerUnknows's Battlegrounds
 
