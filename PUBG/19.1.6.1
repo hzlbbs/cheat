@@ -1,0 +1,127 @@
+refer seojunguy6974 from uc
+
+/* 2022-8-24 */
+ 
+#pragma once
+namespace UDumper {
+        constexpr uintptr_t Decrypt = 0x07023428;
+        constexpr uintptr_t UWorld = 0x08C35F50;
+        constexpr uintptr_t LocalPlayers = 0x08D6DD60;
+        constexpr uintptr_t GetBulletSpeed = 0x04D13A1C;
+        constexpr uintptr_t LineToSight = 0x0586C07C;
+ 
+        constexpr uintptr_t GNames = 0x08E0A1C0;
+        constexpr uint32_t ChunkSize = 0x4138;
+ 
+        constexpr uintptr_t GObjects = 0x08BF4AA0;
+        constexpr uint32_t ActorArray = 0x0088;
+        constexpr uint32_t ObjID = 0x0024;
+ 
+        constexpr uint32_t DroppedItemGroup = 0x02D0;
+ 
+        constexpr uintptr_t TslSettingsBase = 0x08DF1580;
+        constexpr uint32_t TslSettings = 0x01F0;
+ 
+//Found SceneComponent.GetSocketRotation 0000000005A4C0B0
+//Found TslWeapon_Trajectory.GetBulletRotation 0000000004DEA8E4
+//Found Actor.GetActorEyesViewPoint 0000000005A4665C
+ 
+        constexpr uint32_t ComponentToWorld = 0x0220;
+        constexpr uint32_t ComponentRotation = 0x0290;
+        constexpr uint32_t ComponentLocation = 0x0230;
+ 
+        constexpr uint32_t DroppedItemGroup_UItem = 0x0738;
+        constexpr uint32_t ItemPackage = 0x0570;
+        constexpr uint32_t ItemID = 0x0248;
+        constexpr uint32_t ItemInformationComponent = 0x00B0;
+ 
+        constexpr uint32_t WeaponIndex = 0x02D9;
+ 
+        constexpr uint32_t TimeSeconds = 0x02A8;
+ 
+        constexpr uint32_t CurrentLevel = 0x0730;
+ 
+        constexpr uint32_t PlayerController = 0x0038;
+        constexpr uint32_t AcknowledgedPawn = 0x0490;
+        constexpr uint32_t SpectatorPawn = 0x0740;
+        constexpr uint32_t PlayerCameraManager = 0x04B0;
+        constexpr uint32_t InputRotation = 0x0620;
+ 
+        constexpr uint32_t CameraCache = 0x1660;
+        constexpr uint32_t POV = 0x0010;
+        constexpr uint32_t FOV = 0x0590;
+        constexpr uint32_t Rotation = 0x0000;
+        constexpr uint32_t Location = 0x059C;
+ 
+        constexpr uint32_t RootComponent = 0x01C8;
+        constexpr uint32_t ReplicatedMovement = 0x0080;
+ 
+        constexpr uint32_t PlayerState = 0x0420;
+ 
+        constexpr uint32_t Mesh = 0x04E8;
+ 
+        constexpr uint32_t BallisticDragScale = 0x03DC;
+        constexpr uint32_t BallisticDropScale = 0x03E0;
+ 
+        constexpr uint32_t Health = 0x21E0;
+        constexpr uint32_t HealthMax = 0x0F10;
+        constexpr uint32_t GroggyHealth = 0x1B90;
+        constexpr uint32_t GroggyHealthMax = 0x13DC;
+        constexpr uint32_t CharacterName = 0x13E0;
+        constexpr uint32_t LastTeamNum = 0x13C0;
+        constexpr uint32_t VehicleRiderComponent = 0x1C78;
+        constexpr uint32_t WeaponProcessor = 0x1070;
+        constexpr uint32_t SpectatedCount = 0x1484;
+        constexpr uint32_t AimOffsets = 0x1710;
+ 
+        constexpr uint32_t CharacterMovement = 0x04C8;
+        constexpr uint32_t JumpKeyHoldTime = 0x0460;
+ 
+        constexpr uint32_t ComponentVelocity = 0x036C;
+        constexpr uint32_t AttachParent = 0x0348;
+ 
+        constexpr uint32_t LastSubmitTime = 0x0778;
+        constexpr uint32_t LastRenderTimeOnScreen = 0x0780;
+ 
+        constexpr uint32_t AnimScriptInstance = 0x0C90;
+        constexpr uint32_t StaticMesh = 0x0AF0;
+ 
+        constexpr uint32_t TimeTillExplosion = 0x072C;
+ 
+        constexpr uint32_t SeatIndex = 0x0228;
+        constexpr uint32_t LastVehiclePawn = 0x0260;
+ 
+        constexpr uint32_t EquippedWeapons = 0x02B8;
+ 
+        constexpr uint32_t AttachedItems = 0x07E8;
+        constexpr uint32_t Mesh3P = 0x07A0;
+        constexpr uint32_t FiringAttachPoint = 0x0840;
+        constexpr uint32_t IronSightZeroingDistances = 0x05A0;
+ 
+        constexpr uint32_t bAlwaysUseIronSightZeroing = 0x0A01;
+        constexpr uint32_t AmmoPerClip = 0x0A04;
+        constexpr uint32_t CurrentZeroLevel = 0x0A0C;
+        constexpr uint32_t CurrentCantedZeroLevel = 0x0A10;
+        constexpr uint32_t ScopingAttachPoint = 0x0BF8;
+ 
+        constexpr uint32_t WeaponTrajectoryData = 0x0FF8;
+        constexpr uint32_t TrajectoryGravityZ = 0x0F98;
+ 
+        constexpr uint32_t ControlRotation_CP = 0x0734;
+        constexpr uint32_t RecoilADSRotation_CP = 0x09C4;
+        constexpr uint32_t LeanLeftAlpha_CP = 0x0DD4;
+        constexpr uint32_t LeanRightAlpha_CP = 0x0DD8;
+        constexpr uint32_t bIsScoping_CP = 0x0CEE;
+ 
+        constexpr uint32_t TrajectoryConfig = 0x0108;
+ 
+        constexpr uint32_t PlayerStatistics = 0x0838;
+ 
+        constexpr uint32_t FloatCurves = 0x0038;
+}
+ 
+ Decrypt (ObjID)
+ Obj_Ror = True
+ Obj_Val1 = 0xB4C55ED6
+ Obj_Val2 = 0x4
+ Obj_Val3 = 0x13EACF89
