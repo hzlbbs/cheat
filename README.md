@@ -1,10 +1,11 @@
 PUBG CHEAT VALORANT CHEAT APEX CHEAT チート 플러그인
+Plan to release more cheats,but first need fix my site
 # free cheat
 updated status:
 
-PUBG : 19.1.5.5（removed aimbot no recoil）
+PUBG : （removed aimbot no recoil）
 
-VALORANT:5.01.00.731104
+VALORANT:COMING SOON
 
 APEX:COMING SOON
 
