@@ -13,10 +13,6 @@ discord group:https://discord.gg/j77QKUxmFv
 
 discrod:guabi00#1318
 
-PlayerUnknows's Battlegrounds
-
-<a href="https://ibb.co/W245QK6"><img src="https://i.ibb.co/XCrL9Jb/123.png" alt="123" border="0"></a>
-
 instructions
 
 step 1:run start.exe and click start botton before game running
