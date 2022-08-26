@@ -11,5 +11,3 @@ APEX:Testing
 discord group:https://discord.gg/j77QKUxmFv
 
 discrod:guabi00#1318
-
-Accept paypal donations chengkevin996@gmail.com
