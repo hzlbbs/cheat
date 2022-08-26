@@ -5,9 +5,9 @@ updated status:
 
 PUBG : （removed aimbot no recoil）
 
-VALORANT:COMING SOON
+VALORANT:Testing
 
-APEX:COMING SOON
+APEX:Testing
 
 discord group:https://discord.gg/j77QKUxmFv
 
