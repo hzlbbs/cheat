@@ -2,7 +2,8 @@ PUBG CHEAT VALORANT CHEAT APEX CHEAT チート 플러그인
 
 updated status:
 
-PUBG : （removed aimbot no recoil）
+PUBG ：UD-TESTING
+PUBG-HWID-BAN-BYPASS:WORKING
 
 VALORANT:Testing
 
