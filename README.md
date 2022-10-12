@@ -8,10 +8,4 @@ VALORANT  Esp WallHack Aimbot cheat aim assist cheater
 
 Apex Legends VALORANT PUBG: BATTLEGROUNDS  Remove HWID BAN
 
-updated status:
-
-PUBG ：UD-TESTING
-PUBG-HWID-BAN-BYPASS:WORKING
-
-
-discrod:guabi00#1318
+https://www.guabi456.com
